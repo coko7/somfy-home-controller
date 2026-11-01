@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@babel/core": "^8.0.9",
-    "@babel/plugin-transform-modules-commonjs": "^7.21.2",
+    "@babel/plugin-transform-modules-commonjs": "^8.0.1",
     "@babel/preset-env": "^8.0.7",
     "babel-jest": "^30.5.2",
     "jest": "^30.5.2"
