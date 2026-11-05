@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/Coko7/somfy-home-controller#readme",
   "dependencies": {
-    "axios": "^1.20.0",
+    "axios": "^1.21.0",
     "chalk": "^6.0.1",
     "csv-parse": "^7.0.3",
     "dayjs": "^1.11.23",
@@ -38,7 +38,7 @@
     "winston": "^3.19.0"
   },
   "devDependencies": {
-    "@babel/core": "^8.0.9",
+    "@babel/core": "^8.0.10",
     "@babel/plugin-transform-modules-commonjs": "^8.0.1",
     "@babel/preset-env": "^8.0.7",
     "babel-jest": "^30.5.2",
